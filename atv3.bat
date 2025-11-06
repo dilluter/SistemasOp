@@ -4,10 +4,10 @@ setlocal
 rem =====================================================
 rem CONFIGURAÇÃO INICIAL
 rem =====================================================
-set "BASE=%SystemDrive%\GestorArquivos"
-set "DOC=%BASE%\Documentos"
-set "LOG=%BASE%\Logs"
-set "BACK=%BASE%\Backups"
+set "BASE=%SystemDrive%\GestorArqSO"
+set "DOC=%BASE%\DocSO"
+set "LOG=%BASE%\LogsSo"
+set "BACK=%BASE%\BackupsSo"
 set "LOGFILE=%LOG%\atividade.log"
 
 set /a pastas=0
