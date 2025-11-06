@@ -1,0 +1,7 @@
+06/11/2025 20:13:56,47 ; Criar pasta Logs/Backups ; Sucesso
+06/11/2025 20:13:56,48 ; Criar relatorio.txt ; Sucesso
+06/11/2025 20:13:56,49 ; Criar dados.csv ; Sucesso
+06/11/2025 20:13:56,51 ; Criar config.ini ; Sucesso
+06/11/2025 20:13:56,55 ; Copiar arquivos para backup ; Sucesso
+06/11/2025 20:13:56,55 ; Criar backup_completo.bak ; Sucesso
+06/11/2025 20:13:56,57 ; Gerar resumo_execucao.txt ; Sucesso
